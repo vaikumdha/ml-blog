@@ -4,8 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I believe that competitive advantage exists at the intersection of data science, technology, people, and deep business expertise. To unlock true power, AI must be woven into processes and ways of working and applied where it really matters.
 
+Before relocating to Toronto from Chicago, I previously worked at Accenture Strategy as a Management Consultant and at Prosodica as a Data Scientist. My current research is in Deep Learning Computer Vision
 
+I love to write about:
+1. Businesses and Transformational Thinking - Enabling AI into the operating model of an organization, challenges and creating competitive advantage
+2. Machine Learning and Technology - Deep learning, Advanced analytics and Programming
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My consulting experience and strong programming skills provides me with strong foundation to create value by powering AI solutions with a business backbone
