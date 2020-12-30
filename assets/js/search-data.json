@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "My Title",
-            "content": ". Blog Section . print(&quot;Hello World&quot;) . Hello World .",
+            "title": "Precision, Recall and More ",
+            "content": "Translating a product requirement into a classification metric is critical to evaluate a model. In this article we will be going through a single number evaluation metric. Before we dive into metrics we need to understand confusion matrix aka Error Matrix. This is a table that allows us to vizualize the classifications of a model. From this confusion matrix we can derive multiple evaulation model metrics. . Lets start with a funny example where the AI model got confused between a football and refree&#39;s bald head. To keep things simple we are planning to improve the model by adding in a binary classifier. We input multiple pictures of ball and head. Our aim is to evaulate the new model&#39;s performance. . We are testing the new model on a set of 60 pictures, 40 of them ball while the rest 20 head. The model has classified 50 images as ball and 10 as head. After manual investigation of the model output, we find that out of 50 classified as balls, 18 of them are heads while out of the 10 classified heads 8 of them are balls. Visualizing the above infomration would be easy. . import seaborn as sns from mlxtend.plotting import plot_confusion_matrix import matplotlib.pyplot as plt import numpy as np . confusionMat = np.array([[32, 2], [18, 8]]) fig, ax = plot_confusion_matrix(conf_mat=confusionMat) plt.show() .",
             "url": "https://vaikumdha.github.io/ml-blog/precision/recall/confusion%20matrix/jupyter/python/2020/12/29/_12_29_precision_and_recall.html",
             "relUrl": "/precision/recall/confusion%20matrix/jupyter/python/2020/12/29/_12_29_precision_and_recall.html",
             "date": " • Dec 29, 2020"
